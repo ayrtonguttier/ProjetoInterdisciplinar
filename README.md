@@ -13,4 +13,5 @@ https://en.wikipedia.org/wiki/Binary_number
 https://en.wikipedia.org/wiki/Hexadecimal
 
 A ferramenta utilizada para conferencia dos valores:
+
 https://www.rapidtables.com/convert/number/binary-to-decimal.html
