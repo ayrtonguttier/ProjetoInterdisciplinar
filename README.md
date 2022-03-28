@@ -23,17 +23,20 @@ Ao executar o comando "python conversao.py" deverá aparecer o menu abaixo:
 
 ![Menu](./assets/Menu.png)
 
-Ao utilizar a opção 1 será solicitado um número inteiro na base 10 para conversão em binário
-
+## Conversão de base 10 para base 2
+Ao utilizar a opção 1 será solicitado um número inteiro na base 10 para conversão em binário.
 ![ExemploDecimalParaBinario](./assets/InteiroParaBinario.png)
+Fonte: https://en.wikipedia.org/wiki/Binary_number
 
+## Conversão de base 10 para base 16
 Ao utilizar a opção 2 será solicitado um número inteiro na base 10 para conversão em hexadecimal
-
 ![ExemploDecimalParaHexadecimal](./assets/InteiroParaHexa.png)
+Fonte: https://en.wikipedia.org/wiki/Hexadecimal
 
+## Conversão de base 10 para base 8
 Ao utilizar a opção 3 será solicitado um número inteiro na base 10 para conversão em octal
-
 ![ExemploDecimalParaHexadecimal](./assets/InteiroParaOctal.png)
+Fonte: https://en.wikipedia.org/wiki/Octal
 
 Ao utilizar a opção 9 o sistema deverá fechar.
 
