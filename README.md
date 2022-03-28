@@ -1,13 +1,14 @@
 # Projeto interdisciplinar cruzeiro do sul 2022.
 
-## Índice
-
-[ComoUsar][Como usar]
+### Opção 1 converter números inteiros na base 10 para números binários, hexadecimais e octais.
+<br>
 
 
 # Como usar
 
-Ao executar o comando "python conversao.py" deverá aparecer o menu abaixo:
+Ao executar o comando <b>python conversao.py</b> deverá aparecer o menu abaixo:
+
+## Menu
 
 ![Menu](./assets/Menu.png)
 
@@ -33,7 +34,6 @@ Se qualquer outro número ou letra for utilizado o sistema solicitará novamente
 # Sobre o fonte
 
 ## Código do menu
-
 Na primeira parte do código eu crio um dicionário onde:<br>
 A <b>chave</b> é a opção que deverá ser selecionada no menu.<br>
 O <b>valor</b> é a função que deverá ser executada quando a opção for escolhida.
