@@ -1,3 +1,4 @@
+
 # https://en.wikipedia.org/wiki/Octal
 
 def paraOctal(valorInteiro):
