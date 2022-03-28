@@ -1,6 +1,3 @@
-
-# https://en.wikipedia.org/wiki/Octal
-
 def paraOctal(valorInteiro):
     divisor = maiorPotencia(valorInteiro)
 
@@ -21,11 +18,6 @@ def maiorPotencia(valorInteiro):
         else:
             potencia = aux
 
-# https://en.wikipedia.org/wiki/Octal
-
-
-
-#https://en.wikipedia.org/wiki/Binary_number
 def paraBinario(valorInteiro):    
     quociente = int(valorInteiro / 2)    
     if(valorInteiro == 0):
@@ -40,11 +32,7 @@ def paraBinario(valorInteiro):
         atual = '1'
 
     return paraBinario(quociente) + atual
-#https://en.wikipedia.org/wiki/Binary_number
 
-
-
-# https://en.wikipedia.org/wiki/Hexadecimal
 def paraHexadecimal(valorInteiro):
     resto = valorInteiro % 16
     if(valorInteiro - resto == 0):
@@ -58,8 +46,6 @@ def paraHexadecimal(valorInteiro):
 def buscaCaracter(number):
     alpha = "0123456789ABCDEF"
     return alpha[number]
-# https://en.wikipedia.org/wiki/Hexadecimal
-
 
 menu = {}
 menu['1'] = paraBinario
@@ -85,9 +71,3 @@ while(escolha not in menu.keys()):
         print('O resultado da conversão é: ' + menu[escolha](valor))
         print('')
         escolha = '-1'
-
-
-
-
-
-# para conferencia dos valores foi utilizada a ferramenta: https://www.rapidtables.com/convert/number/binary-to-decimal.html
