@@ -34,9 +34,9 @@ Se qualquer outro número ou letra for utilizado o sistema solicitará novamente
 # Sobre o fonte
 
 ## Código do menu
-Na primeira parte do código eu crio um dicionário onde:<br>
-A `chave` é a opção que deverá ser selecionada no menu.<br>
-O `valor` é a função que deverá ser executada quando a opção for escolhida.
+Na primeira parte do código eu crio um dicionário onde:
+ - A `chave` é a opção que deverá ser selecionada no menu.
+ - O `valor` é a função que deverá ser executada quando a opção for escolhida.
 
 Em seguida crio a função `mostrarMenu` que é responsável por mostrar as opções disponíveis.
 
