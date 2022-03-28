@@ -86,6 +86,9 @@ Por fim retorna recursivamente a concatenação do cálculo binário do quocient
 ``` Python
 def paraBinario(valorInteiro):    
     quociente = int(valorInteiro / 2)    
+    if(valorInteiro == 0):
+        return 0
+
     if(quociente == 0):
         return '1'
     
