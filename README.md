@@ -1,17 +1,8 @@
 # Projeto interdisciplinar cruzeiro do sul 2022.
 
-O projeto utiliza python usando console como forma de interação com o usuário.
+## Índice
 
-Para utilização executar em linha de comando: python conversao.py
-
-As fontes de pesquisa utilizadas foram:<br>
-https://en.wikipedia.org/wiki/Octal<br>
-https://en.wikipedia.org/wiki/Binary_number<br>
-https://en.wikipedia.org/wiki/Hexadecimal
-
-A ferramenta utilizada para conferencia dos valores:
-
-https://www.rapidtables.com/convert/number/binary-to-decimal.html
+[ComoUsar][Como usar]
 
 
 # Como usar
@@ -90,3 +81,14 @@ O quociente dessa divisão é por fim concatenado com o resto caso o divisor sej
 Ou ele será concatenado com o mesmo cálculo feito para o valor do resto.
 
 ![CódigoOctal](./assets/CodigoOctal.png)
+
+
+# Fontes
+
+As fontes de pesquisa utilizadas foram:<br>
+https://en.wikipedia.org/wiki/Octal<br>
+https://en.wikipedia.org/wiki/Binary_number<br>
+https://en.wikipedia.org/wiki/Hexadecimal
+
+A ferramenta utilizada para conferencia dos valores:<br>
+https://www.rapidtables.com/convert/number/binary-to-decimal.html
