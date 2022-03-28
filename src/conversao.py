@@ -28,6 +28,9 @@ def maiorPotencia(valorInteiro):
 #https://en.wikipedia.org/wiki/Binary_number
 def paraBinario(valorInteiro):    
     quociente = int(valorInteiro / 2)    
+    if(valorInteiro == 0):
+        return 0
+
     if(quociente == 0):
         return '1'
     

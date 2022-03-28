@@ -124,7 +124,7 @@ def buscaCaracter(number):
 
 A conversão em octal é talvez a mais complexa.<br>
 Primeiro devemos identificar por qual número faremos a divisão do valor recebido como parâmetro.<br>
-Para isso o método `maiorPotencia` calcula o maior múltiplo de 8 que seja menor que o valor passado por parâmetro.<br>
+Para isso o método `maiorPotencia` calcula a maior potência de `8` que seja menor que o valor passado por parâmetro.<br>
 Este valor então é utilizado como divisor do valor a ser convertido.<br>
 O quociente dessa divisão é por fim concatenado com o resto caso o divisor seja 8.<br>
 Ou ele será concatenado com o mesmo cálculo feito para o valor do resto.
