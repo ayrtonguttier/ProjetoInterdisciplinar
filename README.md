@@ -6,7 +6,7 @@
 
 # Como usar
 
-Ao executar o comando `python conversao.py` deverá aparecer o menu abaixo:
+Ao executar o comando `python src/conversao.py` deverá aparecer o menu abaixo:
 
 ## Menu
 
